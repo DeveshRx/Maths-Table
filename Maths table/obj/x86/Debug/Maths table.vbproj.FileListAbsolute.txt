@@ -1,0 +1,30 @@
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\bin\Debug\Maths table.exe
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\bin\Debug\Maths table.pdb
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\bin\Debug\Maths table.xml
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\obj\x86\Debug\MainWindow.baml
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\obj\x86\Debug\MainWindow.g.vb
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\obj\x86\Debug\Application.g.vb
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\obj\x86\Debug\Maths table_MarkupCompile.cache
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\obj\x86\Debug\Maths table.g.resources
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\obj\x86\Debug\Maths_table.Resources.resources
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\obj\x86\Debug\Maths table.exe
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\obj\x86\Debug\Maths table.xml
+C:\Users\Internet\AppData\Local\Temporary Projects\Maths table\obj\x86\Debug\Maths table.pdb
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Debug\Maths table.exe
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Debug\Maths table.xml
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Debug\Maths table.pdb
+E:\Devesh inc\cc++\Maths table\Maths table\bin\Debug\Maths table.exe
+E:\Devesh inc\cc++\Maths table\Maths table\bin\Debug\Maths table.pdb
+E:\Devesh inc\cc++\Maths table\Maths table\bin\Debug\Maths table.xml
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Debug\MainWindow.baml
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Debug\MainWindow.g.vb
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Debug\Application.g.vb
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Debug\Maths table_MarkupCompile.cache
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Debug\Maths table.g.resources
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Debug\Maths_table.Resources.resources
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Debug\GenerateResource.write.1.tlog

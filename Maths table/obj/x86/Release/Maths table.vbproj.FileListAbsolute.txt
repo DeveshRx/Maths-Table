@@ -1,0 +1,20 @@
+E:\Devesh inc\cc++\Maths table\Maths table\bin\Release\Maths table.exe
+E:\Devesh inc\cc++\Maths table\Maths table\bin\Release\Maths table.pdb
+E:\Devesh inc\cc++\Maths table\Maths table\bin\Release\Maths table.xml
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\MainWindow.baml
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\MainWindow.g.vb
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\Application.g.vb
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\Maths table_MarkupCompile.cache
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\Maths table.g.resources
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\Maths_table.Resources.resources
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\Maths table.exe
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\Maths table.xml
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\Maths table.pdb
+E:\Devesh inc\cc++\Maths table\Maths table\bin\Release\Maths table.exe.manifest
+E:\Devesh inc\cc++\Maths table\Maths table\bin\Release\Maths table.application
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\Maths table.TrustInfo.xml
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\Maths table.exe.manifest
+E:\Devesh inc\cc++\Maths table\Maths table\obj\x86\Release\Maths table.application
